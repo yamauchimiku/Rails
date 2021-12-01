@@ -1,24 +1,8 @@
-# README
+# Rails
+## 概要
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+DMM WEBCAMPコンテンツ【Railsを学ぼう】　
 
-Things you may want to cover:
+DMM WEBCAMPの学習コンテンツRailsを学ぼうでRailsの基本を学習しました。
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
